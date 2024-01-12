@@ -3,16 +3,24 @@
 Я Тимур Галиев, Python-разработчик
 
 ### Мои работы и проекты:
-1. Python:  
-    * [Курсовой проект "Резервное копирование"](https://github.com/timurgs/diplom-work.git)
-    * [Курсовая работа "VKinder"](https://github.com/timurgs/diplom-prof.git)
-    * [Дипломная работа "API Сервис заказа товаров для розничных сетей"](https://github.com/timurgs/api-order-goods.git)
-2. PostgreSQL:
-    * [Примеры в репозитории](https://github.com/timurgs/db-homeworks.git)
-3. Django:
-    * [Домашние работы по курсу Django](https://github.com/timurgs/dj-homeworks.git)
-4. Flask, aiohttp, Docker, Docker Compose, Celery, CI/CD:
-    * [Примеры в репозитории](https://github.com/timurgs/py-web-dev.git)
+1. Школа IT от бизнес-клуба Terra (о школе [по ссылке](https://schoolterra.ru/itschool)):
+   1. Проект "Солнечный круг".  
+      Позиция в проекте: TeamLead Backend  
+      Задача: создание сайта для представления АНОО «Солнечный Круг» в сети интернет.  
+      Используемые технологии: Python, Django, PostgreSQL, Docker, nginx    
+      Реализовано: сайт с возможностью посетителям помогать материальными средствами детям с нарушениями развития. [Ссылка](https://www.new.slkrug.ru/)  
+      [Behance сайта](https://www.behance.net/gallery/168737717/solnechnyj-krug)  
+2. Нетология:
+   1. Python:  
+       * [Курсовой проект "Резервное копирование"](https://github.com/timurgs/diplom-work.git)
+       * [Курсовая работа "VKinder"](https://github.com/timurgs/diplom-prof.git)
+       * [Дипломная работа "API Сервис заказа товаров для розничных сетей"](https://github.com/timurgs/api-order-goods.git)
+   2. PostgreSQL:
+       * [Примеры в репозитории](https://github.com/timurgs/db-homeworks.git)
+   3. Django:
+       * [Домашние работы по курсу Django](https://github.com/timurgs/dj-homeworks.git)
+   4. Flask, aiohttp, Docker, Docker Compose, Celery, CI/CD:
+       * [Примеры в репозитории](https://github.com/timurgs/py-web-dev.git)
  
 ### Сертификаты Нетологии
 * Python:
