@@ -10,7 +10,7 @@
       Задача: создание сайта для представления АНОО «Солнечный Круг» в сети интернет.  
       Используемые технологии: Python, Django, PostgreSQL, Docker, nginx    
       Реализовано: сайт с возможностью посетителям помогать материальными средствами детям с нарушениями развития. [Ссылка](https://www.new.slkrug.ru/)  
-      [Behance сайта](https://www.behance.net/gallery/168737717/solnechnyj-krug)  
+      [Behance сайта](https://www.behance.net/gallery/168737717/solnechnyj-krug)
       *Для предоставления дополнительной информации по проекту, кода, а также доказательства моего участия обращаться к [данному контакту](https://t.me/MicoDi)*
       
    3. **Telegram-бот “АСН (Автоматизированная система найма)” для школы**  
@@ -32,6 +32,9 @@
        * [Примеры в репозитории](https://github.com/timurgs/py-web-dev.git)
  
 ### Сертификаты Нетологии
+* Диплом Нетологии:
+   * Диплом о профессиональной переподготовке https://github.com/timurgs/timurgs/blob/main/professional_retraining_diploma.pdf
+   * Приложение к диплому https://github.com/timurgs/timurgs/blob/main/diploma_supplement.pdf 
 * Python:
    * Основы языка программирования Python https://github.com/timurgs/timurgs/blob/main/pybasic.pdf
    * Профессиональная работа с Python https://github.com/timurgs/timurgs/blob/main/pyadvance.pdf
