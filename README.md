@@ -3,7 +3,7 @@
 Я Тимур Галиев, Python-разработчик
 
 ### Мои работы и проекты:
-1. Школа IT от бизнес-клуба Terra (о школе [по ссылке](https://schoolterra.ru/itschool)):
+1. Школа IT от бизнес-клуба Terra (о школе [по ссылке](https://guild-of-developers.ru/)):
 
    1. **Проект "Бюджет"**  
       Позиция в проекте: TeamLead Backend  
